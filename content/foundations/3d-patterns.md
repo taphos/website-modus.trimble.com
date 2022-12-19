@@ -6,3 +6,6 @@ Blah blah
 
 # Selection
 Selection is done by clicking
+
+### Select edge
+
