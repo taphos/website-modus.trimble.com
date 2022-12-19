@@ -6,7 +6,13 @@ foundations: true
 url: "/foundations/modus-3d/"
 ---
 
-Modus 3D is an initiative of Trimble UX designers and Trimble Technology developers to build and define a common set of interaction and visual patterns for all Trimble 3D applications. We want designers and developers to understand the best practices to provide the tools to easily implement and adopt proven 3D patterns. This effort will provide a unified experience for our customers across Trimble solutions.
+# Header 1
+
+## Header 2
+
+### Header 3
+
+*Modus 3D* is an initiative of Trimble UX designers and Trimble Technology developers to build and define a common set of interaction and visual patterns for all Trimble 3D applications. We want designers and developers to understand the best practices to provide the tools to easily implement and adopt proven 3D patterns. This effort will provide a unified experience for our customers across Trimble solutions.
 
 To encourage adoption, we have created Modus 3D, a repository of 3D pattern elements available for any designer or developer within Trimble to consume and contribute. Modus 3D contains detailed descriptions of 3D UX patterns and interactive examples showing implementation of a Web3D graphics library.
 
